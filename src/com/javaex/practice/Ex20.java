@@ -12,9 +12,9 @@ public class Ex20 {
 		System.out.println("   [숫자맞추기게임 시작]    ");
 		System.out.println("======================");
 		
-		int s = 29;
 		
-		while(s==29) {
+		
+		while(true) {
 		System.out.print(">>");
 		int num =sc.nextInt();
 		if (num>29) {
