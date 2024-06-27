@@ -51,7 +51,7 @@ public class Ex20 {
 //			}
 			
 	}
-		
+		sc.close();
 	}
 }
 }
